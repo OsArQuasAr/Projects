@@ -1,0 +1,246 @@
+team_api_id,team_long_name,date,buildUpPlaySpeed,buildUpPlaySpeedClass,buildUpPlayDribbling,buildUpPlayDribblingClass,buildUpPlayPassing,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassing,chanceCreationPassingClass,chanceCreationCrossing,chanceCreationCrossingClass,chanceCreationShooting,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressure,defencePressureClass,defenceAggression,defenceAggressionClass,defenceTeamWidth,defenceTeamWidthClass,defenceDefenderLineClass
+9930,FC Aarau,9/10/2015 0:00,47,Balanced,41,Normal,54,Mixed,Organised,54,Normal,63,Normal,64,Normal,Organised,47,Medium,44,Press,54,Normal,Cover
+8485,Aberdeen,9/10/2015 0:00,59,Balanced,64,Normal,53,Mixed,Organised,51,Normal,72,Lots,63,Normal,Free Form,49,Medium,45,Press,63,Normal,Cover
+8576,AC Ajaccio,9/10/2015 0:00,59,Balanced,57,Normal,52,Mixed,Organised,48,Normal,38,Normal,52,Normal,Organised,38,Medium,47,Press,53,Normal,Cover
+8564,Milan,9/10/2015 0:00,48,Balanced,70,Lots,52,Mixed,Organised,66,Normal,36,Normal,69,Lots,Organised,58,Medium,57,Press,49,Normal,Cover
+10215,Académica de Coimbra,9/10/2015 0:00,53,Balanced,53,Normal,44,Mixed,Organised,55,Normal,51,Normal,60,Normal,Organised,39,Medium,38,Press,61,Normal,Cover
+10217,ADO Den Haag,9/10/2015 0:00,56,Balanced,40,Normal,66,Mixed,Organised,55,Normal,52,Normal,38,Normal,Organised,40,Medium,50,Press,52,Normal,Cover
+8593,Ajax,9/10/2015 0:00,35,Balanced,43,Normal,39,Mixed,Organised,58,Normal,55,Normal,30,Little,Free Form,64,Medium,53,Press,59,Normal,Cover
+9865,UD Almería,9/10/2015 0:00,46,Balanced,41,Normal,65,Mixed,Organised,57,Normal,54,Normal,40,Normal,Organised,37,Medium,53,Press,45,Normal,Cover
+8635,RSC Anderlecht,9/10/2015 0:00,52,Balanced,46,Normal,51,Mixed,Organised,60,Normal,53,Normal,47,Normal,Organised,53,Medium,50,Press,61,Normal,Cover
+8121,Angers SCO,9/10/2015 0:00,48,Balanced,61,Normal,50,Mixed,Organised,40,Normal,52,Normal,48,Normal,Organised,44,Medium,44,Press,51,Normal,Cover
+108893,AC Arles-Avignon,9/10/2015 0:00,56,Balanced,46,Normal,54,Mixed,Organised,55,Normal,40,Normal,43,Normal,Organised,48,Medium,53,Press,57,Normal,Cover
+158085,FC Arouca,9/10/2015 0:00,65,Balanced,66,Normal,39,Mixed,Organised,55,Normal,59,Normal,46,Normal,Organised,37,Medium,39,Press,37,Normal,Cover
+9825,Arsenal,9/10/2015 0:00,59,Balanced,51,Normal,30,Short,Organised,28,Safe,44,Normal,46,Normal,Free Form,51,Medium,44,Press,52,Normal,Cover
+10252,Aston Villa,9/10/2015 0:00,63,Balanced,37,Normal,54,Mixed,Organised,60,Normal,48,Normal,38,Normal,Organised,35,Medium,44,Press,54,Normal,Cover
+8524,Atalanta,9/10/2015 0:00,64,Balanced,45,Normal,37,Mixed,Organised,38,Normal,49,Normal,51,Normal,Organised,36,Medium,63,Press,49,Normal,Cover
+8315,Athletic Club de Bilbao,9/10/2015 0:00,46,Balanced,46,Normal,39,Mixed,Organised,50,Normal,60,Normal,36,Normal,Free Form,49,Medium,57,Press,50,Normal,Cover
+9906,Atlético Madrid,9/10/2015 0:00,57,Balanced,50,Normal,50,Mixed,Organised,61,Normal,62,Normal,49,Normal,Organised,49,Medium,42,Press,52,Normal,Cover
+8406,FC Augsburg,9/10/2015 0:00,59,Balanced,51,Normal,55,Mixed,Organised,49,Normal,62,Normal,55,Normal,Organised,34,Medium,50,Press,59,Normal,Cover
+8583,AJ Auxerre,9/10/2015 0:00,64,Balanced,55,Normal,49,Mixed,Organised,51,Normal,63,Normal,50,Normal,Organised,34,Medium,45,Press,40,Normal,Cover
+10229,AZ,9/10/2015 0:00,50,Balanced,46,Normal,58,Mixed,Organised,67,Risky,56,Normal,50,Normal,Organised,50,Medium,61,Press,55,Normal,Cover
+8634,FC Barcelona,9/10/2015 0:00,36,Balanced,35,Normal,51,Mixed,Free Form,36,Normal,49,Normal,56,Normal,Free Form,61,Medium,65,Press,65,Normal,Cover
+9976,Bari,9/10/2015 0:00,52,Balanced,40,Normal,65,Mixed,Organised,40,Normal,55,Normal,48,Normal,Organised,50,Medium,51,Press,55,Normal,Cover
+9931,FC Basel,9/10/2015 0:00,61,Balanced,63,Normal,46,Mixed,Organised,66,Normal,66,Normal,54,Normal,Organised,47,Medium,58,Press,53,Normal,Cover
+8178,Bayer 04 Leverkusen,9/10/2015 0:00,73,Fast,29,Little,55,Mixed,Organised,77,Risky,54,Normal,61,Normal,Organised,61,Medium,72,Double,50,Normal,Cover
+9823,FC Bayern Munich,9/10/2015 0:00,45,Balanced,24,Little,28,Short,Free Form,37,Normal,31,Little,22,Little,Free Form,72,High,53,Press,59,Normal,Cover
+9807,CF Os Belenenses,9/10/2015 0:00,51,Balanced,53,Normal,52,Mixed,Organised,43,Normal,37,Normal,48,Normal,Organised,38,Medium,48,Press,49,Normal,Cover
+9772,SL Benfica,9/10/2015 0:00,69,Fast,55,Normal,53,Mixed,Organised,65,Normal,66,Normal,54,Normal,Organised,60,Medium,57,Press,54,Normal,Cover
+8658,Birmingham City,9/10/2015 0:00,56,Balanced,32,Little,75,Long,Organised,77,Risky,62,Normal,64,Normal,Organised,42,Medium,47,Press,54,Normal,Cover
+8655,Blackburn Rovers,9/10/2015 0:00,60,Balanced,60,Normal,65,Mixed,Organised,59,Normal,58,Normal,42,Normal,Organised,50,Medium,50,Press,57,Normal,Cover
+8483,Blackpool,9/10/2015 0:00,62,Balanced,36,Normal,64,Mixed,Organised,59,Normal,43,Normal,64,Normal,Organised,39,Medium,38,Press,54,Normal,Cover
+8613,Boavista FC,9/10/2015 0:00,47,Balanced,56,Normal,50,Mixed,Organised,37,Normal,38,Normal,53,Normal,Organised,32,Deep,62,Press,54,Normal,Cover
+9911,VfL Bochum,9/10/2015 0:00,69,Fast,38,Normal,57,Mixed,Organised,66,Normal,40,Normal,66,Normal,Organised,58,Medium,47,Press,67,Wide,Cover
+9857,Bologna,9/10/2015 0:00,63,Balanced,53,Normal,48,Mixed,Organised,32,Safe,48,Normal,52,Normal,Organised,30,Deep,54,Press,48,Normal,Cover
+8559,Bolton Wanderers,9/10/2015 0:00,57,Balanced,34,Normal,61,Mixed,Organised,72,Risky,60,Normal,38,Normal,Organised,39,Medium,48,Press,58,Normal,Cover
+9827,Girondins de Bordeaux,9/10/2015 0:00,51,Balanced,40,Normal,48,Mixed,Organised,49,Normal,63,Normal,44,Normal,Organised,57,Medium,52,Press,49,Normal,Cover
+9789,Borussia Dortmund,9/10/2015 0:00,71,Fast,37,Normal,40,Mixed,Organised,70,Risky,44,Normal,49,Normal,Free Form,65,Medium,71,Double,40,Normal,Cover
+9788,Borussia Mönchengladbach,9/10/2015 0:00,31,Slow,53,Normal,32,Short,Organised,38,Normal,26,Little,49,Normal,Free Form,41,Medium,48,Press,39,Normal,Cover
+8678,Bournemouth,9/10/2015 0:00,47,Balanced,36,Normal,47,Mixed,Organised,49,Normal,45,Normal,47,Normal,Organised,48,Medium,50,Press,62,Normal,Cover
+10264,SC Braga,9/10/2015 0:00,55,Balanced,35,Normal,55,Mixed,Organised,62,Normal,65,Normal,39,Normal,Organised,25,Deep,56,Press,39,Normal,Cover
+9858,Brescia,9/10/2015 0:00,42,Balanced,56,Normal,43,Mixed,Organised,41,Normal,48,Normal,69,Lots,Organised,41,Medium,52,Press,57,Normal,Cover
+8521,Stade Brestois 29,9/10/2015 0:00,59,Balanced,48,Normal,54,Mixed,Organised,49,Normal,53,Normal,66,Normal,Organised,44,Medium,34,Press,51,Normal,Cover
+8191,Burnley,9/10/2015 0:00,54,Balanced,32,Little,67,Long,Organised,72,Risky,57,Normal,47,Normal,Organised,63,Medium,62,Press,58,Normal,Cover
+7819,SM Caen,9/10/2015 0:00,62,Balanced,50,Normal,45,Mixed,Organised,48,Normal,54,Normal,53,Normal,Organised,43,Medium,42,Press,51,Normal,Cover
+8529,Cagliari,9/10/2015 0:00,67,Fast,32,Little,35,Mixed,Organised,69,Risky,58,Normal,69,Lots,Free Form,65,Medium,65,Press,57,Normal,Offside Trap
+7788,SC Cambuur,9/10/2015 0:00,43,Balanced,36,Normal,57,Mixed,Organised,46,Normal,50,Normal,38,Normal,Organised,42,Medium,49,Press,47,Normal,Cover
+8344,Cardiff City,9/10/2015 0:00,60,Balanced,41,Normal,67,Long,Organised,52,Normal,56,Normal,46,Normal,Organised,33,Deep,41,Press,39,Normal,Cover
+208931,Carpi,9/10/2015 0:00,80,Fast,45,Normal,65,Mixed,Organised,70,Risky,40,Normal,50,Normal,Organised,25,Deep,55,Press,35,Normal,Cover
+8530,Catania,9/10/2015 0:00,70,Fast,52,Normal,48,Mixed,Organised,53,Normal,52,Normal,36,Normal,Organised,31,Deep,64,Press,52,Normal,Cover
+9910,RC Celta de Vigo,9/10/2015 0:00,55,Balanced,59,Normal,38,Mixed,Organised,41,Normal,48,Normal,50,Normal,Free Form,55,Medium,55,Press,59,Normal,Cover
+9925,Celtic,9/10/2015 0:00,54,Balanced,49,Normal,53,Mixed,Organised,51,Normal,51,Normal,62,Normal,Organised,58,Medium,55,Press,56,Normal,Cover
+9984,KSV Cercle Brugge,9/10/2015 0:00,53,Balanced,49,Normal,43,Mixed,Organised,52,Normal,58,Normal,42,Normal,Organised,59,Medium,47,Press,62,Normal,Cover
+9880,Cesena,9/10/2015 0:00,66,Balanced,31,Little,41,Mixed,Organised,53,Normal,44,Normal,66,Normal,Organised,39,Medium,49,Press,57,Normal,Cover
+8455,Chelsea,9/10/2015 0:00,67,Fast,41,Normal,36,Mixed,Organised,41,Normal,34,Normal,44,Normal,Organised,39,Medium,41,Press,46,Normal,Cover
+8533,Chievo Verona,9/10/2015 0:00,66,Balanced,54,Normal,67,Long,Organised,52,Normal,66,Normal,52,Normal,Organised,46,Medium,59,Press,51,Normal,Cover
+8342,Club Brugge KV,9/10/2015 0:00,42,Balanced,52,Normal,45,Mixed,Organised,42,Normal,57,Normal,47,Normal,Organised,51,Medium,50,Press,57,Normal,Cover
+7869,Córdoba CF,9/10/2015 0:00,53,Balanced,40,Normal,48,Mixed,Organised,55,Normal,59,Normal,57,Normal,Organised,38,Medium,39,Press,52,Normal,Cover
+2186,Cracovia,9/10/2015 0:00,37,Balanced,50,Normal,38,Mixed,Organised,66,Normal,66,Normal,33,Little,Organised,59,Medium,34,Press,64,Normal,Cover
+9826,Crystal Palace,9/10/2015 0:00,61,Balanced,45,Normal,67,Long,Organised,67,Risky,69,Lots,50,Normal,Organised,36,Medium,34,Press,41,Normal,Cover
+8262,SV Darmstadt 98,9/10/2015 0:00,59,Balanced,43,Normal,77,Long,Organised,52,Normal,77,Lots,45,Normal,Organised,32,Deep,56,Press,41,Normal,Cover
+9783,RC Deportivo de La Coruña,9/10/2015 0:00,53,Balanced,55,Normal,47,Mixed,Organised,38,Normal,52,Normal,55,Normal,Organised,45,Medium,50,Press,59,Normal,Offside Trap
+9836,Dijon FCO,9/10/2015 0:00,51,Balanced,54,Normal,49,Mixed,Organised,49,Normal,52,Normal,52,Normal,Organised,45,Medium,46,Press,58,Normal,Cover
+8284,Dundee FC,9/10/2015 0:00,47,Balanced,47,Normal,48,Mixed,Organised,32,Safe,61,Normal,65,Normal,Organised,50,Medium,44,Press,52,Normal,Cover
+9938,Dundee United,9/10/2015 0:00,60,Balanced,58,Normal,53,Mixed,Organised,55,Normal,49,Normal,45,Normal,Organised,48,Medium,42,Press,53,Normal,Cover
+8372,SD Eibar,9/10/2015 0:00,62,Balanced,51,Normal,52,Mixed,Organised,59,Normal,55,Normal,52,Normal,Organised,37,Medium,56,Press,49,Normal,Cover
+9776,Eintracht Braunschweig,9/10/2015 0:00,66,Balanced,44,Normal,54,Mixed,Organised,62,Normal,59,Normal,51,Normal,Free Form,57,Medium,47,Press,53,Normal,Cover
+9810,Eintracht Frankfurt,9/10/2015 0:00,51,Balanced,41,Normal,38,Mixed,Organised,47,Normal,58,Normal,40,Normal,Organised,48,Medium,42,Press,55,Normal,Cover
+10268,Elche CF,9/10/2015 0:00,51,Balanced,52,Normal,48,Mixed,Organised,53,Normal,54,Normal,57,Normal,Organised,49,Medium,51,Press,58,Normal,Cover
+8534,Empoli,9/10/2015 0:00,66,Balanced,43,Normal,36,Mixed,Organised,59,Normal,64,Normal,63,Normal,Organised,46,Medium,66,Press,48,Normal,Cover
+8558,RCD Espanyol,9/10/2015 0:00,50,Balanced,52,Normal,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Free Form,37,Medium,40,Press,45,Normal,Cover
+7842,Estoril Praia,9/10/2015 0:00,59,Balanced,56,Normal,52,Mixed,Organised,47,Normal,53,Normal,39,Normal,Organised,46,Medium,49,Press,55,Normal,Cover
+8668,Everton,9/10/2015 0:00,43,Balanced,45,Normal,40,Mixed,Organised,39,Normal,33,Little,63,Normal,Organised,52,Medium,58,Press,59,Normal,Cover
+4087,Évian Thonon Gaillard FC,9/10/2015 0:00,58,Balanced,35,Normal,56,Mixed,Organised,52,Normal,61,Normal,51,Normal,Organised,47,Medium,43,Press,50,Normal,Cover
+10218,Excelsior,9/10/2015 0:00,53,Balanced,41,Normal,69,Long,Organised,48,Normal,45,Normal,43,Normal,Organised,29,Deep,41,Press,36,Normal,Cover
+8722,1. FC Köln,9/10/2015 0:00,59,Balanced,47,Normal,65,Mixed,Organised,57,Normal,36,Normal,71,Lots,Organised,42,Medium,56,Press,51,Normal,Cover
+6631,FC Dordrecht,9/10/2015 0:00,39,Balanced,33,Little,62,Mixed,Organised,62,Normal,66,Normal,48,Normal,Organised,51,Medium,58,Press,55,Normal,Cover
+8674,FC Groningen,9/10/2015 0:00,55,Balanced,32,Little,55,Mixed,Organised,57,Normal,59,Normal,54,Normal,Organised,49,Medium,47,Press,53,Normal,Cover
+9773,FC Porto,9/10/2015 0:00,70,Fast,50,Normal,53,Mixed,Organised,56,Normal,66,Normal,68,Lots,Organised,58,Medium,60,Press,60,Normal,Cover
+9908,FC Utrecht,9/10/2015 0:00,50,Balanced,39,Normal,54,Mixed,Organised,55,Normal,64,Normal,28,Little,Organised,54,Medium,58,Press,47,Normal,Cover
+9824,FC Vaduz,9/10/2015 0:00,53,Balanced,32,Little,56,Mixed,Organised,38,Normal,53,Normal,46,Normal,Organised,42,Medium,33,Contain,58,Normal,Cover
+10243,FC Zürich,9/10/2015 0:00,62,Balanced,49,Normal,46,Mixed,Organised,47,Normal,50,Normal,54,Normal,Organised,47,Medium,43,Press,56,Normal,Cover
+10235,Feyenoord,9/10/2015 0:00,50,Balanced,33,Little,48,Mixed,Organised,48,Normal,67,Lots,31,Little,Organised,43,Medium,46,Press,40,Normal,Cover
+8535,Fiorentina,9/10/2015 0:00,34,Balanced,54,Normal,33,Short,Organised,68,Risky,51,Normal,53,Normal,Organised,58,Medium,59,Press,61,Normal,Cover
+8194,Fortuna Düsseldorf,9/10/2015 0:00,47,Balanced,62,Normal,47,Mixed,Organised,55,Normal,68,Lots,55,Normal,Organised,56,Medium,57,Press,52,Normal,Cover
+8358,SC Freiburg,9/10/2015 0:00,59,Balanced,54,Normal,38,Mixed,Organised,55,Normal,44,Normal,45,Normal,Free Form,53,Medium,62,Press,29,Narrow,Cover
+9891,Frosinone,9/10/2015 0:00,63,Balanced,48,Normal,46,Mixed,Organised,51,Normal,50,Normal,50,Normal,Organised,55,Medium,57,Press,47,Normal,Cover
+9879,Fulham,9/10/2015 0:00,52,Balanced,34,Normal,48,Mixed,Organised,39,Normal,54,Normal,59,Normal,Organised,29,Deep,30,Contain,39,Normal,Cover
+9987,KRC Genk,9/10/2015 0:00,58,Balanced,52,Normal,38,Mixed,Organised,30,Safe,69,Lots,56,Normal,Organised,36,Medium,57,Press,70,Wide,Cover
+10233,Genoa,9/10/2015 0:00,64,Balanced,52,Normal,68,Long,Organised,66,Normal,45,Normal,23,Little,Organised,27,Deep,47,Press,53,Normal,Cover
+9991,KAA Gent,9/10/2015 0:00,50,Balanced,55,Normal,37,Mixed,Organised,42,Normal,66,Normal,34,Normal,Organised,49,Medium,54,Press,52,Normal,Cover
+8305,Getafe CF,9/10/2015 0:00,34,Balanced,41,Normal,38,Mixed,Organised,55,Normal,39,Normal,49,Normal,Organised,43,Medium,42,Press,49,Normal,Cover
+6391,GFC Ajaccio,9/10/2015 0:00,48,Balanced,53,Normal,52,Mixed,Organised,55,Normal,53,Normal,55,Normal,Organised,42,Medium,46,Press,53,Normal,Cover
+9764,Gil Vicente FC,9/10/2015 0:00,68,Fast,67,Lots,41,Mixed,Organised,54,Normal,47,Normal,46,Normal,Free Form,39,Medium,40,Press,53,Normal,Cover
+8569,GKS Bełchatów,9/10/2015 0:00,52,Balanced,48,Normal,43,Mixed,Organised,52,Normal,37,Normal,50,Normal,Organised,47,Medium,45,Press,40,Normal,Cover
+6433,Go Ahead Eagles,9/10/2015 0:00,58,Balanced,38,Normal,64,Mixed,Organised,37,Normal,42,Normal,52,Normal,Organised,43,Medium,47,Press,51,Normal,Cover
+8019,Górnik Łęczna,9/10/2015 0:00,41,Balanced,40,Normal,59,Mixed,Organised,41,Normal,44,Normal,54,Normal,Organised,52,Medium,47,Press,50,Normal,Cover
+7878,Granada CF,9/10/2015 0:00,57,Balanced,50,Normal,59,Mixed,Organised,61,Normal,63,Normal,51,Normal,Organised,48,Medium,45,Press,62,Normal,Cover
+9956,Grasshopper Club Zürich,9/10/2015 0:00,50,Balanced,60,Normal,54,Mixed,Organised,52,Normal,54,Normal,46,Normal,Organised,36,Medium,43,Press,47,Normal,Cover
+8357,SpVgg Greuther Fürth,9/10/2015 0:00,54,Balanced,60,Normal,53,Mixed,Organised,54,Normal,49,Normal,46,Normal,Organised,48,Medium,56,Press,66,Normal,Cover
+9747,En Avant de Guingamp,9/10/2015 0:00,63,Balanced,37,Normal,58,Mixed,Organised,42,Normal,56,Normal,36,Normal,Organised,49,Medium,47,Press,49,Normal,Cover
+9790,Hamburger SV,9/10/2015 0:00,42,Balanced,56,Normal,52,Mixed,Organised,62,Normal,58,Normal,47,Normal,Organised,44,Medium,41,Press,49,Normal,Cover
+8429,Hamilton Academical FC,9/10/2015 0:00,48,Balanced,48,Normal,47,Mixed,Free Form,73,Risky,53,Normal,71,Lots,Organised,55,Medium,48,Press,52,Normal,Cover
+9904,Hannover 96,9/10/2015 0:00,48,Balanced,55,Normal,41,Mixed,Organised,38,Normal,51,Normal,40,Normal,Organised,35,Medium,50,Press,61,Normal,Cover
+9791,Heracles Almelo,9/10/2015 0:00,50,Balanced,36,Normal,61,Mixed,Organised,48,Normal,58,Normal,59,Normal,Organised,60,Medium,62,Press,47,Normal,Cover
+8177,Hertha BSC Berlin,9/10/2015 0:00,47,Balanced,44,Normal,55,Mixed,Organised,59,Normal,68,Lots,45,Normal,Organised,50,Medium,45,Press,57,Normal,Cover
+8226,TSG 1899 Hoffenheim,9/10/2015 0:00,69,Fast,49,Normal,53,Mixed,Organised,66,Normal,62,Normal,59,Normal,Organised,63,Medium,61,Press,38,Normal,Cover
+8667,Hull City,9/10/2015 0:00,56,Balanced,40,Normal,55,Mixed,Organised,54,Normal,49,Normal,56,Normal,Organised,38,Medium,37,Press,46,Normal,Cover
+8234,FC Ingolstadt 04,9/10/2015 0:00,55,Balanced,51,Normal,46,Mixed,Organised,47,Normal,53,Normal,51,Normal,Organised,37,Medium,48,Press,49,Normal,Cover
+8636,Inter,9/10/2015 0:00,58,Balanced,69,Lots,54,Mixed,Organised,56,Normal,60,Normal,53,Normal,Organised,47,Medium,49,Press,63,Normal,Cover
+8066,Inverness Caledonian Thistle,9/10/2015 0:00,48,Balanced,47,Normal,32,Short,Organised,57,Normal,48,Normal,69,Lots,Free Form,44,Medium,44,Press,51,Normal,Cover
+1957,Jagiellonia Białystok,9/10/2015 0:00,66,Balanced,54,Normal,38,Mixed,Organised,53,Normal,33,Little,66,Normal,Organised,57,Medium,56,Press,49,Normal,Cover
+9885,Juventus,9/10/2015 0:00,50,Balanced,35,Normal,20,Short,Organised,65,Normal,50,Normal,80,Lots,Organised,35,Medium,65,Press,35,Normal,Cover
+8350,1. FC Kaiserslautern,9/10/2015 0:00,49,Balanced,54,Normal,52,Mixed,Organised,49,Normal,54,Normal,64,Normal,Organised,41,Medium,51,Press,53,Normal,Cover
+8295,Karlsruher SC,9/10/2015 0:00,54,Balanced,52,Normal,47,Mixed,Organised,53,Normal,44,Normal,49,Normal,Organised,34,Medium,46,Press,39,Normal,Cover
+8597,Kilmarnock,9/10/2015 0:00,50,Balanced,48,Normal,60,Mixed,Organised,49,Normal,62,Normal,47,Normal,Organised,46,Medium,46,Press,52,Normal,Cover
+8245,Korona Kielce,9/10/2015 0:00,59,Balanced,69,Lots,50,Mixed,Organised,64,Normal,53,Normal,36,Normal,Organised,30,Deep,43,Press,62,Normal,Cover
+8571,KV Kortrijk,9/10/2015 0:00,42,Balanced,40,Normal,47,Mixed,Organised,37,Normal,67,Lots,30,Little,Organised,46,Medium,45,Press,52,Normal,Cover
+8203,KV Mechelen,9/10/2015 0:00,52,Balanced,42,Normal,40,Mixed,Organised,47,Normal,53,Normal,50,Normal,Organised,42,Medium,51,Press,52,Normal,Cover
+8306,UD Las Palmas,9/10/2015 0:00,48,Balanced,55,Normal,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,53,Medium,39,Press,57,Normal,Cover
+8543,Lazio,9/10/2015 0:00,68,Fast,65,Normal,55,Mixed,Organised,68,Risky,80,Lots,72,Lots,Free Form,59,Medium,66,Press,65,Normal,Cover
+9746,Le Havre AC,9/10/2015 0:00,46,Balanced,56,Normal,52,Mixed,Organised,49,Normal,54,Normal,52,Normal,Organised,47,Medium,55,Press,52,Normal,Cover
+2182,Lech Poznań,9/10/2015 0:00,57,Balanced,50,Normal,40,Mixed,Free Form,59,Normal,70,Lots,67,Lots,Free Form,50,Medium,58,Press,45,Normal,Cover
+8030,Lechia Gdańsk,9/10/2015 0:00,62,Balanced,48,Normal,52,Mixed,Free Form,66,Normal,59,Normal,58,Normal,Organised,51,Medium,58,Press,40,Normal,Cover
+8673,Legia Warszawa,9/10/2015 0:00,54,Balanced,47,Normal,36,Mixed,Organised,52,Normal,51,Normal,64,Normal,Free Form,50,Medium,60,Press,58,Normal,Cover
+8197,Leicester City,9/10/2015 0:00,63,Balanced,41,Normal,60,Mixed,Organised,47,Normal,64,Normal,46,Normal,Organised,58,Medium,65,Press,55,Normal,Cover
+8588,RC Lens,9/10/2015 0:00,64,Balanced,44,Normal,50,Mixed,Organised,49,Normal,53,Normal,46,Normal,Organised,46,Medium,44,Press,49,Normal,Cover
+8581,Levante UD,9/10/2015 0:00,62,Balanced,36,Normal,65,Mixed,Organised,71,Risky,42,Normal,65,Normal,Organised,36,Medium,33,Contain,42,Normal,Cover
+9989,Lierse SK,9/10/2015 0:00,69,Fast,44,Normal,58,Mixed,Organised,56,Normal,52,Normal,61,Normal,Organised,38,Medium,49,Press,65,Normal,Cover
+8639,LOSC Lille,9/10/2015 0:00,45,Balanced,36,Normal,43,Mixed,Organised,68,Risky,52,Normal,64,Normal,Organised,59,Medium,42,Press,48,Normal,Cover
+8650,Liverpool,9/10/2015 0:00,66,Balanced,60,Normal,45,Mixed,Organised,34,Normal,34,Normal,46,Normal,Organised,51,Medium,52,Press,61,Normal,Cover
+8537,Livorno,9/10/2015 0:00,58,Balanced,58,Normal,67,Long,Organised,38,Normal,27,Little,69,Lots,Organised,31,Deep,57,Press,38,Normal,Cover
+9994,Sporting Lokeren,9/10/2015 0:00,62,Balanced,45,Normal,52,Mixed,Organised,42,Normal,50,Normal,62,Normal,Organised,45,Medium,52,Press,52,Normal,Cover
+8689,FC Lorient,9/10/2015 0:00,57,Balanced,42,Normal,50,Mixed,Organised,48,Normal,53,Normal,46,Normal,Organised,51,Medium,56,Press,55,Normal,Cover
+10199,FC Luzern,9/10/2015 0:00,63,Balanced,51,Normal,51,Mixed,Organised,54,Normal,40,Normal,66,Normal,Organised,48,Medium,53,Press,50,Normal,Cover
+9748,Olympique Lyonnais,9/10/2015 0:00,49,Balanced,60,Normal,52,Mixed,Organised,49,Normal,54,Normal,67,Lots,Organised,46,Medium,47,Press,47,Normal,Cover
+9905,1. FSV Mainz 05,9/10/2015 0:00,60,Balanced,43,Normal,53,Mixed,Organised,49,Normal,40,Normal,44,Normal,Organised,55,Medium,62,Press,47,Normal,Cover
+9864,Málaga CF,9/10/2015 0:00,42,Balanced,51,Normal,36,Mixed,Organised,41,Normal,40,Normal,50,Normal,Organised,47,Medium,37,Press,52,Normal,Offside Trap
+8661,RCD Mallorca,9/10/2015 0:00,62,Balanced,53,Normal,57,Mixed,Organised,53,Normal,57,Normal,53,Normal,Organised,59,Medium,41,Press,56,Normal,Cover
+8456,Manchester City,9/10/2015 0:00,59,Balanced,35,Normal,29,Short,Free Form,38,Normal,36,Normal,24,Little,Free Form,48,Medium,47,Press,54,Normal,Cover
+10260,Manchester United,9/10/2015 0:00,38,Balanced,42,Normal,44,Mixed,Organised,49,Normal,44,Normal,40,Normal,Organised,54,Medium,53,Press,56,Normal,Cover
+10212,CS Marítimo,9/10/2015 0:00,61,Balanced,49,Normal,66,Mixed,Organised,67,Risky,64,Normal,55,Normal,Organised,38,Medium,49,Press,46,Normal,Cover
+8592,Olympique de Marseille,9/10/2015 0:00,51,Balanced,77,Lots,41,Mixed,Organised,49,Normal,69,Lots,31,Little,Organised,48,Medium,48,Press,60,Normal,Cover
+8550,FC Metz,9/10/2015 0:00,55,Balanced,48,Normal,49,Mixed,Organised,46,Normal,54,Normal,53,Normal,Organised,39,Medium,46,Press,42,Normal,Cover
+8549,Middlesbrough,9/10/2015 0:00,60,Balanced,32,Little,46,Mixed,Organised,43,Normal,55,Normal,37,Normal,Organised,38,Medium,42,Press,42,Normal,Cover
+9829,AS Monaco,9/10/2015 0:00,52,Balanced,42,Normal,43,Mixed,Organised,54,Normal,56,Normal,23,Little,Organised,56,Medium,62,Press,51,Normal,Cover
+10249,Montpellier Hérault SC,9/10/2015 0:00,54,Balanced,43,Normal,65,Mixed,Organised,48,Normal,49,Normal,45,Normal,Organised,53,Medium,56,Press,48,Normal,Cover
+8348,Moreirense FC,9/10/2015 0:00,38,Balanced,58,Normal,43,Mixed,Organised,51,Normal,54,Normal,39,Normal,Organised,44,Medium,46,Press,48,Normal,Cover
+9927,Motherwell,9/10/2015 0:00,64,Balanced,46,Normal,55,Mixed,Organised,44,Normal,45,Normal,27,Little,Organised,37,Medium,44,Press,51,Normal,Cover
+274581,Royal Excel Mouscron,9/10/2015 0:00,50,Balanced,50,Normal,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover
+9996,Royal Excel Mouscron,9/10/2015 0:00,50,Balanced,50,Normal,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover
+9996,Royal Excel Mouscron,9/10/2015 0:00,50,Balanced,50,Normal,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover
+9761,NAC Breda,9/10/2015 0:00,45,Balanced,49,Normal,59,Mixed,Organised,32,Safe,42,Normal,54,Normal,Organised,36,Medium,39,Press,40,Normal,Cover
+10214,CD Nacional,9/10/2015 0:00,65,Balanced,59,Normal,43,Mixed,Organised,53,Normal,44,Normal,53,Normal,Organised,42,Medium,42,Press,57,Normal,Cover
+8481,AS Nancy-Lorraine,9/10/2015 0:00,49,Balanced,48,Normal,49,Mixed,Organised,52,Normal,53,Normal,67,Lots,Organised,43,Medium,46,Press,50,Normal,Cover
+9830,FC Nantes,9/10/2015 0:00,63,Balanced,70,Lots,56,Mixed,Organised,52,Normal,55,Normal,46,Normal,Organised,39,Medium,41,Press,52,Normal,Cover
+10261,Newcastle United,9/10/2015 0:00,58,Balanced,45,Normal,49,Mixed,Organised,47,Normal,54,Normal,46,Normal,Organised,41,Medium,39,Press,51,Normal,Cover
+9831,OGC Nice,9/10/2015 0:00,48,Balanced,55,Normal,53,Mixed,Organised,49,Normal,66,Normal,38,Normal,Organised,57,Medium,47,Press,61,Normal,Cover
+9850,Norwich City,9/10/2015 0:00,45,Balanced,38,Normal,55,Mixed,Organised,46,Normal,54,Normal,47,Normal,Organised,38,Medium,39,Press,51,Normal,Cover
+8165,1. FC Nürnberg,9/10/2015 0:00,46,Balanced,58,Normal,49,Mixed,Organised,51,Normal,52,Normal,59,Normal,Organised,30,Deep,40,Press,44,Normal,Cover
+8388,CD Numancia,9/10/2015 0:00,44,Balanced,48,Normal,45,Mixed,Organised,54,Normal,41,Normal,57,Normal,Organised,50,Medium,46,Press,62,Normal,Cover
+8573,KV Oostende,9/10/2015 0:00,52,Balanced,49,Normal,54,Mixed,Organised,45,Normal,42,Normal,53,Normal,Organised,42,Medium,47,Press,44,Normal,Cover
+8371,CA Osasuna,9/10/2015 0:00,38,Balanced,53,Normal,52,Mixed,Organised,55,Normal,59,Normal,54,Normal,Organised,47,Medium,52,Press,69,Wide,Cover
+6403,FC Paços de Ferreira,9/10/2015 0:00,63,Balanced,40,Normal,39,Mixed,Organised,64,Normal,53,Normal,52,Normal,Organised,36,Medium,39,Press,64,Normal,Cover
+8460,SC Paderborn 07,9/10/2015 0:00,67,Fast,46,Normal,62,Mixed,Organised,56,Normal,48,Normal,56,Normal,Organised,25,Deep,29,Contain,54,Normal,Cover
+8540,Palermo,9/10/2015 0:00,66,Balanced,66,Normal,36,Mixed,Organised,60,Normal,34,Normal,64,Normal,Organised,44,Medium,58,Press,50,Normal,Cover
+9847,Paris Saint-Germain,9/10/2015 0:00,49,Balanced,47,Normal,34,Mixed,Organised,62,Normal,61,Normal,35,Normal,Organised,57,Medium,53,Press,56,Normal,Cover
+10167,Parma,9/10/2015 0:00,48,Balanced,66,Normal,33,Short,Organised,69,Risky,62,Normal,45,Normal,Organised,43,Medium,43,Press,46,Normal,Cover
+8426,Partick Thistle F.C.,9/10/2015 0:00,48,Balanced,48,Normal,47,Mixed,Organised,47,Normal,53,Normal,60,Normal,Organised,46,Medium,46,Press,49,Normal,Cover
+6413,PEC Zwolle,9/10/2015 0:00,45,Balanced,35,Normal,56,Mixed,Organised,57,Normal,50,Normal,58,Normal,Organised,58,Medium,60,Press,63,Normal,Cover
+6547,FC Penafiel,9/10/2015 0:00,54,Balanced,54,Normal,39,Mixed,Organised,52,Normal,56,Normal,38,Normal,Organised,40,Medium,35,Press,46,Normal,Cover
+9878,Pescara,9/10/2015 0:00,64,Balanced,31,Little,53,Mixed,Organised,41,Normal,49,Normal,41,Normal,Organised,39,Medium,46,Press,43,Normal,Cover
+8028,Piast Gliwice,9/10/2015 0:00,64,Balanced,52,Normal,67,Long,Organised,64,Normal,66,Normal,39,Normal,Organised,36,Medium,45,Press,48,Normal,Cover
+8033,Podbeskidzie Bielsko-Biała,9/10/2015 0:00,68,Fast,55,Normal,66,Mixed,Organised,66,Normal,51,Normal,49,Normal,Organised,29,Deep,35,Press,38,Normal,Cover
+8023,Pogoń Szczecin,9/10/2015 0:00,50,Balanced,33,Little,36,Mixed,Organised,52,Normal,40,Normal,52,Normal,Organised,57,Medium,54,Press,47,Normal,Cover
+8462,Portsmouth,9/10/2015 0:00,59,Balanced,32,Little,57,Mixed,Organised,49,Normal,47,Normal,53,Normal,Organised,39,Medium,40,Press,44,Normal,Cover
+8640,PSV,9/10/2015 0:00,67,Fast,43,Normal,43,Mixed,Organised,53,Normal,44,Normal,28,Little,Organised,40,Medium,40,Press,48,Normal,Cover
+10172,Queens Park Rangers,9/10/2015 0:00,30,Slow,39,Normal,61,Mixed,Organised,53,Normal,53,Normal,60,Normal,Organised,50,Medium,44,Press,54,Normal,Cover
+8696,Racing Santander,9/10/2015 0:00,48,Balanced,52,Normal,47,Mixed,Organised,53,Normal,53,Normal,53,Normal,Organised,51,Medium,47,Press,53,Normal,Cover
+8548,Rangers,9/10/2015 0:00,45,Balanced,53,Normal,55,Mixed,Organised,38,Normal,62,Normal,53,Normal,Organised,48,Medium,48,Press,55,Normal,Cover
+8370,Rayo Vallecano,9/10/2015 0:00,29,Slow,52,Normal,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,54,Medium,52,Press,63,Normal,Cover
+9798,Reading,9/10/2015 0:00,44,Balanced,36,Normal,64,Mixed,Organised,62,Normal,65,Normal,42,Normal,Organised,51,Medium,47,Press,52,Normal,Cover
+8603,Real Betis Balompié,9/10/2015 0:00,59,Balanced,49,Normal,37,Mixed,Organised,59,Normal,43,Normal,53,Normal,Organised,58,Medium,49,Press,58,Normal,Cover
+8633,Real Madrid CF,9/10/2015 0:00,50,Balanced,57,Normal,46,Mixed,Free Form,61,Normal,41,Normal,63,Normal,Free Form,52,Medium,60,Press,63,Normal,Cover
+8560,Real Sociedad,9/10/2015 0:00,60,Balanced,52,Normal,50,Mixed,Organised,54,Normal,60,Normal,52,Normal,Organised,49,Medium,53,Press,53,Normal,Cover
+8479,RC Recreativo,9/10/2015 0:00,37,Balanced,38,Normal,43,Mixed,Organised,30,Safe,42,Normal,37,Normal,Organised,40,Medium,49,Press,54,Normal,Cover
+9837,Stade de Reims,9/10/2015 0:00,48,Balanced,37,Normal,49,Mixed,Organised,48,Normal,52,Normal,58,Normal,Organised,33,Deep,44,Press,50,Normal,Cover
+9851,Stade Rennais FC,9/10/2015 0:00,64,Balanced,62,Normal,41,Mixed,Organised,49,Normal,52,Normal,64,Normal,Organised,46,Medium,44,Press,51,Normal,Cover
+7841,Rio Ave FC,9/10/2015 0:00,66,Balanced,47,Normal,44,Mixed,Organised,58,Normal,65,Normal,54,Normal,Organised,39,Medium,48,Press,66,Normal,Cover
+8686,Roma,9/10/2015 0:00,68,Fast,27,Little,47,Mixed,Organised,71,Risky,54,Normal,66,Normal,Free Form,36,Medium,57,Press,48,Normal,Cover
+8649,Ross County FC,9/10/2015 0:00,45,Balanced,48,Normal,60,Mixed,Organised,46,Normal,49,Normal,58,Normal,Organised,36,Medium,53,Press,34,Normal,Cover
+1601,Ruch Chorzów,9/10/2015 0:00,47,Balanced,48,Normal,38,Mixed,Organised,61,Normal,65,Normal,50,Normal,Organised,43,Medium,44,Press,49,Normal,Cover
+9853,AS Saint-Étienne,9/10/2015 0:00,58,Balanced,55,Normal,52,Mixed,Organised,48,Normal,64,Normal,52,Normal,Organised,48,Medium,51,Press,49,Normal,Cover
+9882,Sampdoria,9/10/2015 0:00,36,Balanced,56,Normal,38,Mixed,Organised,49,Normal,52,Normal,29,Little,Organised,50,Medium,51,Press,53,Normal,Cover
+7943,Sassuolo,9/10/2015 0:00,57,Balanced,65,Normal,60,Mixed,Organised,56,Normal,57,Normal,56,Normal,Organised,38,Medium,47,Press,53,Normal,Cover
+7794,SC Bastia,9/10/2015 0:00,61,Balanced,61,Normal,52,Mixed,Organised,56,Normal,51,Normal,49,Normal,Organised,44,Medium,55,Press,48,Normal,Cover
+10228,SC Heerenveen,9/10/2015 0:00,54,Balanced,40,Normal,56,Mixed,Organised,65,Normal,43,Normal,44,Normal,Organised,46,Medium,44,Press,48,Normal,Cover
+10189,FC Schalke 04,9/10/2015 0:00,58,Balanced,43,Normal,42,Mixed,Organised,64,Normal,61,Normal,37,Normal,Organised,55,Medium,59,Press,56,Normal,Cover
+8302,Sevilla FC,9/10/2015 0:00,53,Balanced,53,Normal,53,Mixed,Organised,53,Normal,52,Normal,60,Normal,Organised,42,Medium,48,Press,59,Normal,Cover
+10179,FC Sion,9/10/2015 0:00,61,Balanced,57,Normal,37,Mixed,Organised,62,Normal,50,Normal,53,Normal,Organised,45,Medium,47,Press,54,Normal,Cover
+8025,Śląsk Wrocław,9/10/2015 0:00,50,Balanced,55,Normal,35,Mixed,Organised,51,Normal,51,Normal,55,Normal,Organised,45,Medium,55,Press,39,Normal,Cover
+9874,FC Sochaux-Montbéliard,9/10/2015 0:00,63,Balanced,62,Normal,39,Mixed,Organised,63,Normal,64,Normal,49,Normal,Organised,54,Medium,43,Press,49,Normal,Cover
+8466,Southampton,9/10/2015 0:00,52,Balanced,31,Little,46,Mixed,Organised,42,Normal,54,Normal,30,Little,Organised,50,Medium,65,Press,44,Normal,Cover
+9986,Sporting Charleroi,9/10/2015 0:00,60,Balanced,47,Normal,53,Mixed,Organised,48,Normal,50,Normal,48,Normal,Organised,39,Medium,48,Press,49,Normal,Cover
+9768,Sporting CP,9/10/2015 0:00,57,Balanced,65,Normal,56,Mixed,Organised,42,Normal,50,Normal,55,Normal,Organised,60,Medium,60,Press,54,Normal,Cover
+9869,Real Sporting de Gijón,9/10/2015 0:00,55,Balanced,48,Normal,50,Mixed,Organised,62,Normal,59,Normal,38,Normal,Organised,45,Medium,54,Press,41,Normal,Cover
+9875,Napoli,9/10/2015 0:00,53,Balanced,70,Lots,37,Mixed,Organised,68,Risky,54,Normal,67,Lots,Organised,47,Medium,57,Press,53,Normal,Offside Trap
+10190,FC St. Gallen,9/10/2015 0:00,52,Balanced,46,Normal,48,Mixed,Organised,39,Normal,39,Normal,37,Normal,Organised,40,Medium,36,Press,52,Normal,Cover
+9800,St. Mirren,9/10/2015 0:00,38,Balanced,53,Normal,33,Short,Organised,53,Normal,58,Normal,53,Normal,Organised,60,Medium,58,Press,48,Normal,Cover
+8152,FC St. Pauli,9/10/2015 0:00,52,Balanced,52,Normal,56,Mixed,Organised,62,Normal,53,Normal,38,Normal,Organised,39,Medium,44,Press,57,Normal,Cover
+8467,St. Johnstone FC,9/10/2015 0:00,62,Balanced,52,Normal,48,Mixed,Organised,47,Normal,49,Normal,40,Normal,Organised,37,Medium,48,Press,55,Normal,Cover
+9985,Standard de Liège,9/10/2015 0:00,54,Balanced,45,Normal,62,Mixed,Organised,55,Normal,58,Normal,60,Normal,Organised,45,Medium,54,Press,52,Normal,Cover
+10194,Stoke City,9/10/2015 0:00,48,Balanced,41,Normal,49,Mixed,Organised,51,Normal,59,Normal,49,Normal,Organised,44,Medium,37,Press,51,Normal,Cover
+8472,Sunderland,9/10/2015 0:00,43,Balanced,43,Normal,51,Mixed,Organised,59,Normal,50,Normal,55,Normal,Organised,47,Medium,45,Press,49,Normal,Cover
+10003,Swansea City,9/10/2015 0:00,45,Balanced,44,Normal,42,Mixed,Organised,34,Normal,36,Normal,55,Normal,Free Form,31,Deep,47,Press,42,Normal,Cover
+9867,CD Tenerife,9/10/2015 0:00,56,Balanced,50,Normal,57,Mixed,Organised,56,Normal,51,Normal,54,Normal,Organised,52,Medium,50,Press,69,Wide,Cover
+10191,FC Thun,9/10/2015 0:00,58,Balanced,59,Normal,35,Mixed,Organised,64,Normal,36,Normal,66,Normal,Organised,47,Medium,45,Press,53,Normal,Cover
+9804,Torino,9/10/2015 0:00,69,Fast,69,Lots,36,Mixed,Organised,37,Normal,69,Lots,53,Normal,Organised,39,Medium,46,Press,52,Normal,Cover
+8586,Tottenham Hotspur,9/10/2015 0:00,47,Balanced,46,Normal,40,Mixed,Organised,41,Normal,41,Normal,63,Normal,Organised,63,Medium,54,Press,56,Normal,Cover
+9941,Toulouse FC,9/10/2015 0:00,49,Balanced,56,Normal,53,Mixed,Organised,52,Normal,34,Normal,36,Normal,Organised,36,Medium,45,Press,49,Normal,Cover
+10242,ES Troyes AC,9/10/2015 0:00,49,Balanced,48,Normal,51,Mixed,Organised,52,Normal,49,Normal,46,Normal,Organised,43,Medium,42,Press,52,Normal,Cover
+8611,FC Twente,9/10/2015 0:00,48,Balanced,40,Normal,43,Mixed,Organised,43,Normal,58,Normal,39,Normal,Organised,44,Medium,41,Press,55,Normal,Cover
+8600,Udinese,9/10/2015 0:00,68,Fast,54,Normal,63,Mixed,Organised,69,Risky,68,Lots,52,Normal,Organised,40,Medium,57,Press,57,Normal,Cover
+10267,Valencia CF,9/10/2015 0:00,35,Balanced,46,Normal,35,Mixed,Organised,37,Normal,51,Normal,58,Normal,Organised,49,Medium,45,Press,53,Normal,Cover
+9873,Valenciennes FC,9/10/2015 0:00,49,Balanced,59,Normal,52,Mixed,Organised,51,Normal,67,Lots,56,Normal,Organised,47,Medium,51,Press,46,Normal,Cover
+10281,Real Valladolid,9/10/2015 0:00,43,Balanced,40,Normal,65,Mixed,Organised,39,Normal,51,Normal,57,Normal,Organised,47,Medium,40,Press,47,Normal,Cover
+9876,Hellas Verona,9/10/2015 0:00,57,Balanced,29,Little,38,Mixed,Organised,39,Normal,54,Normal,55,Normal,Organised,47,Medium,59,Press,52,Normal,Cover
+10269,VfB Stuttgart,9/10/2015 0:00,59,Balanced,55,Normal,41,Mixed,Organised,58,Normal,66,Normal,48,Normal,Organised,41,Medium,44,Press,32,Narrow,Cover
+10205,Villarreal CF,9/10/2015 0:00,48,Balanced,42,Normal,36,Mixed,Free Form,36,Normal,52,Normal,55,Normal,Free Form,47,Medium,48,Press,44,Normal,Cover
+8277,Vitesse,9/10/2015 0:00,57,Balanced,40,Normal,48,Mixed,Free Form,53,Normal,37,Normal,71,Lots,Free Form,60,Medium,58,Press,62,Normal,Cover
+7844,Vitória Guimarães,9/10/2015 0:00,40,Balanced,52,Normal,39,Mixed,Organised,53,Normal,62,Normal,58,Normal,Organised,37,Medium,40,Press,64,Normal,Cover
+10238,Vitória Setúbal,9/10/2015 0:00,58,Balanced,49,Normal,42,Mixed,Organised,54,Normal,52,Normal,52,Normal,Organised,37,Medium,37,Press,58,Normal,Cover
+8475,Waasland-Beveren,9/10/2015 0:00,38,Balanced,45,Normal,49,Mixed,Organised,45,Normal,42,Normal,53,Normal,Organised,27,Deep,32,Contain,35,Normal,Cover
+9817,Watford,9/10/2015 0:00,61,Balanced,32,Little,52,Mixed,Organised,54,Normal,42,Normal,45,Normal,Free Form,38,Medium,52,Press,45,Normal,Cover
+8697,SV Werder Bremen,9/10/2015 0:00,56,Balanced,55,Normal,63,Mixed,Organised,68,Risky,66,Normal,58,Normal,Organised,63,Medium,47,Press,73,Wide,Cover
+8659,West Bromwich Albion,9/10/2015 0:00,62,Balanced,32,Little,51,Mixed,Organised,53,Normal,50,Normal,60,Normal,Organised,41,Medium,40,Press,49,Normal,Cover
+8654,West Ham United,9/10/2015 0:00,77,Fast,37,Normal,57,Mixed,Organised,68,Risky,73,Lots,29,Little,Organised,30,Deep,37,Press,41,Normal,Cover
+10001,KVC Westerlo,9/10/2015 0:00,52,Balanced,46,Normal,50,Mixed,Organised,57,Normal,55,Normal,32,Little,Organised,48,Medium,45,Press,53,Normal,Cover
+8528,Wigan Athletic,9/10/2015 0:00,51,Balanced,37,Normal,56,Mixed,Organised,52,Normal,59,Normal,40,Normal,Organised,62,Medium,48,Press,44,Normal,Cover
+8525,Willem II,9/10/2015 0:00,51,Balanced,36,Normal,63,Mixed,Organised,48,Normal,53,Normal,52,Normal,Organised,43,Medium,45,Press,47,Normal,Cover
+10265,Wisła Kraków,9/10/2015 0:00,33,Slow,49,Normal,37,Mixed,Free Form,33,Safe,37,Normal,31,Little,Free Form,62,Medium,58,Press,37,Normal,Cover
+8721,VfL Wolfsburg,9/10/2015 0:00,68,Fast,45,Normal,57,Mixed,Organised,69,Risky,66,Normal,50,Normal,Organised,66,Medium,46,Press,55,Normal,Cover
+8602,Wolverhampton Wanderers,9/10/2015 0:00,46,Balanced,36,Normal,54,Mixed,Organised,55,Normal,47,Normal,48,Normal,Organised,47,Medium,48,Press,55,Normal,Cover
+10192,BSC Young Boys,9/10/2015 0:00,52,Balanced,56,Normal,64,Mixed,Organised,39,Normal,66,Normal,46,Normal,Organised,44,Medium,34,Press,50,Normal,Cover
+8394,Real Zaragoza,9/10/2015 0:00,52,Balanced,52,Normal,50,Mixed,Organised,52,Normal,56,Normal,57,Normal,Organised,48,Medium,43,Press,49,Normal,Cover
+8027,Zawisza Bydgoszcz,9/10/2015 0:00,54,Balanced,51,Normal,40,Mixed,Organised,46,Normal,49,Normal,52,Normal,Organised,44,Medium,47,Press,52,Normal,Cover
+10000,SV Zulte-Waregem,9/10/2015 0:00,54,Balanced,42,Normal,51,Mixed,Organised,47,Normal,52,Normal,32,Little,Organised,44,Medium,58,Press,37,Normal,Cover
