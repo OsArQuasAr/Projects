@@ -30,7 +30,8 @@ Team.csv, Team\_Attributes.csv - команды и их характеристи
 
 **Нахождение метрик**
 
-(teams\_strength\_per\_match.ipynb, last\_five\_matches.ipynb)
+**teams\_strength\_per\_match.ipynb**  
+**last\_five\_matches.ipynb**
 
 В результате анализа выбраны ключевые метрики, составленные из имеющихся данных: 
 
