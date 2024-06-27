@@ -1,3 +1,5 @@
+CV_Осипян_Арман.pdf - Резюме
+
 Кейсы:  
 1)optimizing Airbnb bookings    
 2)ENTERING-THE-US-MARKET   
